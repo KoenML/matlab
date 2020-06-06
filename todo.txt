@@ -3,3 +3,4 @@
 12+13 refactoren
 
 39 oppervlakte?
+54 eigenvectoren numeriek/symbolisch bepalen?
