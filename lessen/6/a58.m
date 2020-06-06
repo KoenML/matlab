@@ -1,7 +1,7 @@
 %4000 steekproef gemiddelden berekenen
-x_ = zeros(4000,1);
-for i=1:10000
-  v = ones(1000,1).*frnd(7,5);
+x_ = zeros(1000,1);
+for i=1:1000
+  v = frnd(7,5,[1,1000]);
   x_(i) = mean(v);
 end
 %distributie van x_ fitten en plotten
